@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://demorkp.github.io/sitemap.html.gz
+Sitemap: https://demorkp.github.io/app/sitemap.html.gz
+Sitemap: https://demorkp.github.io/assets/sitemap.html.gz
+Sitemap: https://demorkp.github.io/css/sitemap.html.gz
+Sitemap: https://demorkp.github.io/data/sitemap.html.gz
+Sitemap: https://demorkp.github.io/includes/sitemap.html.gz
+Sitemap: https://demorkp.github.io/item/sitemap.html.gz
+Sitemap: https://demorkp.github.io/src/sitemap.html.gz
